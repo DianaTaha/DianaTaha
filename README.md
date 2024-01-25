@@ -1,4 +1,6 @@
-With over 10 years of experience in Digital Marketing Management and CRM modeling, I have a passion for data and pattern identification. Recently, I've honed my expertise in delving deeper into data and insights, translating them into clear, concise reports that drive strategic decision-making. Proficient in tools like Power BI, I specialize in extracting, transforming, analyzing, and visualizing data for business intelligence purposes. I'm continually expanding my knowledge in this area as I embark on a journey to delve even further into the realm of data analytics.
+With over 10 years of experience in Digital Marketing Management and CRM modeling, and an endless passion for data and pattern identification. Recently, I've honed my expertise in delving deeper into data and insights, translating them into clear, concise reports that drive strategic decision-making. 
+
+Proficient in tools like Power BI, I specialize in extracting, transforming, analyzing, and visualizing data for business intelligence purposes. I'm continually expanding my knowledge in this area as I embark on a journey to delve even further into the realm of data analytics.
 
 
 
